@@ -3,7 +3,10 @@ A simple AWS workflow to get text from S3 ingested PDF.
 
 This workflow is using serverless Framework.
 
-**Language used**: python3.9
+**Language used:** python3.9
+
+**Package used:** PyPDF2
+
 
 **Services used:**
  - S3
